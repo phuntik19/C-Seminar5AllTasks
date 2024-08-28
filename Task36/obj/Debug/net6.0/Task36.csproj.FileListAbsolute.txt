@@ -1,0 +1,15 @@
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\bin\Debug\net6.0\Task36.exe
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\bin\Debug\net6.0\Task36.deps.json
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\bin\Debug\net6.0\Task36.runtimeconfig.json
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\bin\Debug\net6.0\Task36.dll
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\bin\Debug\net6.0\Task36.pdb
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\obj\Debug\net6.0\Task36.csproj.AssemblyReference.cache
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\obj\Debug\net6.0\Task36.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\obj\Debug\net6.0\Task36.AssemblyInfoInputs.cache
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\obj\Debug\net6.0\Task36.AssemblyInfo.cs
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\obj\Debug\net6.0\Task36.csproj.CoreCompileInputs.cache
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\obj\Debug\net6.0\Task36.dll
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\obj\Debug\net6.0\refint\Task36.dll
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\obj\Debug\net6.0\Task36.pdb
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\obj\Debug\net6.0\Task36.genruntimeconfig.cache
+c:\Users\Админ\Desktop\C#\Seminar5\Task36\obj\Debug\net6.0\ref\Task36.dll
